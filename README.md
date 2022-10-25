@@ -1,2 +1,4 @@
 # MyFirstSQL
 SQL
+
+SELECT NOW();
